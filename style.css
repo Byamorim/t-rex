@@ -1,0 +1,14 @@
+/*os seletores abaixo são para definir propriedades para sua pagina inteira*/
+html, body {
+/*margim é uma propriedade que define o espaçamento de fora da ferramenta*/
+  margin: 0;
+ /*padding é uma propriedade que define o espaçamento de dentro da ferramenta*/
+  padding: 0;
+
+}
+/*o seletor abaixo define o que vai acontecer o a ferramenta canvas que é o elemento que conterá o jogo*/
+canvas {
+/*Quando um elemento tem a propriedade display definida como block, ele é 
+renderizado como um bloco retangular que ocupa toda a largura disponível*/
+  display: block;
+}
